@@ -3,18 +3,6 @@ import Tags from "../Tags"
 
 const experiences = [
     {
-        role: "Teamlead and Mobile Developer",
-        company: "Codziennie Fit",
-        location: "Remote",
-        workload: "",
-        from: "Sep 2023",
-        to: "Present",
-        description: "Experienced software engineer with expertise in building scalable, event-driven microservices and AI-powered applications. Proficient in developing solutions using a diverse tech stack. Strong background in leading new technical projects, mentoring engineers, and maintaining and improving legacy systems.",
-        logo: "/logocf.png",
-        url: "https://codzienniefit.app/",
-        tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
-    },
-    {
         role: "Chief Technology Officer",
         company: "Silber Salon GmbH",
         location: "Berlin, DE",
@@ -25,6 +13,18 @@ const experiences = [
         logo: "/logolotti.png",
         url: "https://www.lotti.ai/",
         tags: ["React Native", "React", "Next.js", "TypeScript", "Open AI API"]
+    },
+    {
+        role: "Teamlead and Mobile Developer",
+        company: "Codziennie Fit",
+        location: "Remote",
+        workload: "Freelance",
+        from: "Sep 2023",
+        to: "Present",
+        description: "Experienced software engineer with expertise in building scalable, event-driven microservices and AI-powered applications. Proficient in developing solutions using a diverse tech stack. Strong background in leading new technical projects, mentoring engineers, and maintaining and improving legacy systems.",
+        logo: "/logocf.png",
+        url: "https://codzienniefit.app/",
+        tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
     },
     {
         role: "Product Manager and Strategist",
@@ -43,7 +43,7 @@ const experiences = [
         role: "Co-founder",
         company: "CZTS",
         location: "Remote",
-        workload: "Side project",
+        workload: "Freelance",
         from: "Mar 2020",
         to: "Present",
         description: "DevOps focused role - reduced build times from 4 hours to 45 minutes.",
