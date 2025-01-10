@@ -5,8 +5,10 @@ const studies = [
         name: "Bachelor Architecture",
         company: "Technical University Wrocław",
         location: "Wrocław, PL",
-        from: "2014-2019",
+        from: "Sep 2014",
+        to: "Dec 2019",
         logo: "/logopwr.png",
+        url: "https://pwr.edu.pl/en/",
         description: "Completed my degree, but already during my studies I have started to work in IT"
     },
 ]
