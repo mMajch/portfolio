@@ -106,7 +106,7 @@ const experiences = [
 
 const Experience = () => {
     return (
-    <div className="lg:max-w-xl flex flex-col rounded-xl bg-white p-1">
+    <div className="lg:max-w-xl flex flex-col lg:rounded-xl bg-white p-1">
 
         {experiences.map((exp, index) => 
             <div key={index} className="flex items-start bg-gray-50 hover:bg-gray-100 m-1 rounded-lg py-4">

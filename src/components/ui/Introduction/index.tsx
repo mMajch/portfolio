@@ -9,7 +9,7 @@ const productTags = ["User Research",  "Analytics", "Data Driven Development", "
 const Introduction = () => {
     return (
         <div className="self-auto">
-            <div className="lg:max-w-xs bg-white rounded-xl pb-2">
+            <div className="lg:max-w-xs bg-white  lg:rounded-xl pb-2">
                 <div className="rounded-t-xl flex justify-center mb-3 bg-gradient-to-b flex">
                     <Image alt="Profile Picture" src="/IMG_1404.jpg" width={180} height={180} className="rounded-full mt-8"></Image>
                 </div>
