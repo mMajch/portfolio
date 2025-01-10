@@ -3,7 +3,7 @@ import Image from "next/image"
 const studies = [
     {
         name: "Bachelor Architecture",
-        company: "Technical University Wrocław",
+        company: "TU Wrocław",
         location: "Wrocław, PL",
         from: "Sep 2014",
         to: "Dec 2019",
