@@ -9,7 +9,7 @@ const studies = [
         to: "Dec 2019",
         logo: "/logopwr.png",
         url: "https://pwr.edu.pl/en/",
-        description: "Completed my degree, but already during my studies I have started to work in IT"
+        description: "I completed my degree, but even during my studies, I had already started working in IT."
     },
 ]
 
