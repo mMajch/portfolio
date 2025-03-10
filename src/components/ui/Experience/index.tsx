@@ -3,6 +3,18 @@ import Tags from "../Tags"
 
 const experiences = [
     {
+        role: "Senior Mobile Engineer and Teamlead",
+        company: "Codziennie Fit",
+        location: "Remote",
+        workload: "Freelance",
+        from: "Nov 2024",
+        to: "Present",
+        description: "20k+ users. Fitness app with workouts and exercise programs. Top 1 in Polish App Store (in Fitness and Health) on the first day.",
+        logo: "/logocf.png",
+        url: "https://codzienniefit.app/",
+        tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
+    },
+    {
         role: "Chief Technology Officer",
         company: "Silber Salon GmbH",
         location: "Berlin, DE",
@@ -15,21 +27,9 @@ const experiences = [
         tags: ["React Native", "React", "Next.js", "TypeScript", "Open AI API"]
     },
     {
-        role: "Teamlead, Product Manager and Mobile Developer",
-        company: "Codziennie Fit",
-        location: "Remote",
-        workload: "Freelance",
-        from: "Sep 2023",
-        to: "Present",
-        description: "20k+ users. Fitness app with workouts and exercise programs. Top 1 in Polish App Store (in Fitness and Health) on the first day.",
-        logo: "/logocf.png",
-        url: "https://codzienniefit.app/",
-        tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
-    },
-    {
         role: "Product Manager and Strategist",
-        company: "Instant Note",
-        location: "Berlin, DE",
+        company: "Instant Note for Notion",
+        location: "Remote",
         workload: "Side project",
         from: "Jan 2023",
         to: "Jan 2025",
@@ -40,24 +40,12 @@ const experiences = [
 
     },
     {
-        role: "Co-founder",
-        company: "CZTS",
-        location: "Remote",
-        workload: "Freelance",
-        from: "Mar 2020",
-        to: "Present",
-        description: "200k+ users. Sex education app in Polish.",
-        logo: "/logoCZTS.jpeg",
-        url: "https://web.coztymseksemapp.pl/",
-        tags: ["React Native", "TypeScript", "Azure", "Firebase", "Team management", "User Research", "Data"],
-    },
-    {
         role: "Senior React Native Engineer",
         company: "Happy Habits Solutions GmbH",
         location: "Berlin, DE",
         workload: "Full-time",
         from: "Mar 2021",
-        to: "Dec 2023",
+        to: "Mar 2024",
         description: "App for content creators. Unfortunately the start up did not succeed.",
         logo: "/actiodaily_logo.jpeg",
         url: "https://www.instagram.com/actiodaily/",
@@ -65,7 +53,19 @@ const experiences = [
 
     },
     {
-        role: "Senior Software Engineer",
+        role: "Mobile Engineer and Co-founder",
+        company: "CZTS",
+        location: "Remote",
+        workload: "Freelance",
+        from: "Mar 2020",
+        to: "Mar 2021",
+        description: "200k+ users. Sex education app in Polish.",
+        logo: "/logoCZTS.jpeg",
+        url: "https://web.coztymseksemapp.pl/",
+        tags: ["React Native", "TypeScript", "Azure", "Firebase", "Team management", "User Research", "Data"],
+    },
+    {
+        role: "Senior Full Stack Engineer",
         company: "ValueLogic",
         location: "Wrocław, PL",
         workload: "Full-time",
@@ -77,7 +77,7 @@ const experiences = [
         tags:  ["React Native", "React", "TypeScript", "Python", "Vue.js", "Angular", "GraphQL"]
     },
     {
-        role: "Software Engineer",
+        role: "Mobile Engineer",
         company: "4soft",
         location: "Wrocław, PL",
         workload: "Full-time",
