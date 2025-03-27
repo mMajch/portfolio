@@ -46,7 +46,7 @@ const experiences = [
         workload: "Full-time",
         from: "Mar 2021",
         to: "Mar 2024",
-        description: "App for content creators. Unfortunately the start up did not succeed.",
+        description: "App for content creators. The app offered 1-on-1s and group sessions with professionals from various fields like sports, coaching law etc.",
         logo: "/actiodaily_logo.jpeg",
         url: "https://www.instagram.com/actiodaily/",
         tags:  ["React Native", "React", "TypeScript"]
