@@ -116,7 +116,7 @@ const Experience = () => {
                 <div className="flex-1" style={{overflowWrap: "anywhere"}}>
                     <div className="flex flex-space-between">
                         <span className="flex-1 font-semibold mb-2">{exp.role}</span>
-                        <span className="mr-4"><Tags tags={[exp.workload || ""]}></Tags></span>
+                        {/*<span className="mr-4"><Tags tags={[exp.workload || ""]}></Tags></span>*/}
                     </div>
                     <div className="flex-col sm:flex-row flex gap-3 text-sm mb-3 pr-5 text-slate-700 font-medium">
                         <span className="flex flex-row gap-2">
