@@ -9,7 +9,7 @@ const experiences = [
         workload: "Freelance",
         from: "Nov 2024",
         to: "Present",
-        description: "20k+ users. Fitness app with workouts and exercise programs. Top 1 in Polish App Store (in Fitness and Health) on the first day.",
+        description: "40k+ users. Fitness app with workouts and exercise programs. Top 1 in Polish App Store (in Fitness and Health) on the first day.",
         logo: "/logocf.png",
         url: "https://codzienniefit.app/",
         tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
