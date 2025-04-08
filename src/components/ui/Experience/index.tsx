@@ -15,7 +15,7 @@ const experiences = [
         tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
     },
     {
-        role: "Chief Technology Officer",
+        role: "Tech Lead / Engineer",
         company: "Silber Salon GmbH",
         location: "Berlin, DE",
         workload: "Full-time",

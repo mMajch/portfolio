@@ -16,7 +16,7 @@ const Introduction = () => {
 
                 <p className="flex justify-center font-semibold text-xl mb-3">Marek Majchrzak</p>
                 <div className="text-sm bg-gray-50 rounded-lg p-5 mx-2">
-                    <a href="/CV_MAREK_MAJCHRZAK_1.1.pdf" download="MarekMajchrzakCV">
+                    <a href="/CV_MAREK_MAJCHRZAK_v1.2.pdf" download="MarekMajchrzakCV">
                         <Button
                             className="flex justify-center items-center gap-3 w-full text-white bg-blue-600 hover:bg-blue-500 ring-offset-2 ring-blue-600 focus:ring shadow rounded-lg">
                             Download CV
