@@ -53,13 +53,13 @@ const Introduction = () => {
                         </div>
                     </div>
                     <hr className="my-5"></hr>
-                    I am a Software Engineer and Project Manager with over 7 years of experience and a proven track record of delivering successful applications used by hundreds of thousands of users.
+                    I am a Software Engineer and Project Manager with over 7 years of experience and a proven track record of delivering successful applications. I have worked in big and small teams and I enjoy both.
                     <br/>
                     <br/>
-                    I specialize in React Native and web development but have experience with the backend too.
+                    I specialize in React Native and web development.
                     <br/>
                     <br/>
-                    I love working with team members to create meaningful products and scalable solutions.
+                    I love collaborating with designers, stakeholders, and fellow developers to create meaningful products and scalable solutions.
                     <div className="my-4">
                         <Tags tags={tags}></Tags>
                     </div>
