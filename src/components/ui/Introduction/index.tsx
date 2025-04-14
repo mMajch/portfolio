@@ -11,7 +11,7 @@ const Introduction = () => {
         <div className="self-auto">
             <div className="lg:max-w-xs bg-white  lg:rounded-xl pb-2">
                 <div className="rounded-t-xl flex justify-center mb-3 bg-gradient-to-b flex">
-                    <Image alt="Profile Picture" src="/IMG_1404.jpg" width={180} height={180} className="rounded-full mt-8"></Image>
+                    <Image alt="Profile Picture" src="/photo.jpeg" width={180} height={180} className="rounded-full mt-8"></Image>
                 </div>
 
                 <p className="flex justify-center font-semibold text-xl mb-3">Marek Majchrzak</p>
