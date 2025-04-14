@@ -27,7 +27,7 @@ const experiences = [
         tags: ["React Native", "React", "Next.js", "TypeScript", "Open AI API"]
     },
     {
-        role: "Product Manager and Strategist",
+        role: "Project Manager and Strategist",
         company: "Instant Note for Notion",
         location: "Remote",
         workload: "Side project",
