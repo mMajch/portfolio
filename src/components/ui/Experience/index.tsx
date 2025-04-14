@@ -15,7 +15,7 @@ const experiences = [
         tags: ["React Native", "TypeScript", "Azure", "Mixpanel", "Firebase", "Tamagui", "Team managment", "User Research", "Data"],
     },
     {
-        role: "Tech Lead / Engineer",
+        role: "Tech Lead",
         company: "Silber Salon GmbH",
         location: "Berlin, DE",
         workload: "Full-time",
@@ -65,29 +65,16 @@ const experiences = [
         tags: ["React Native", "TypeScript", "Azure", "Firebase", "Team management", "User Research", "Data"],
     },
     {
-        role: "Senior Full Stack Engineer",
-        company: "ValueLogic",
-        location: "Wrocław, PL",
+        role: "Full Stack Engineer",
+        company: "TIER mobility",
+        location: "Remote",
         workload: "Full-time",
-        from: "Seb 2020",
-        to: "Feb 2021",
-        description: "Various project with many clients (Softwarehouse).",
-        logo: "/logoVL.png",
-        url: "https://valuelogic.one/",
-        tags:  ["React Native", "React", "TypeScript", "Python", "Vue.js", "Angular", "GraphQL"]
-    },
-    {
-        role: "Mobile Engineer",
-        company: "4soft",
-        location: "Wrocław, PL",
-        workload: "Full-time",
-        from: "May 2020",
-        to: "Sep 2020",
-        description: "A short-term project for the medical industry.",
-        logo: "/4softco_logo.jpeg",
-        url: "https://www.4soft.co/",
-        tags:  ["React Native", "React", "TypeScript", "GraphQL"]
-
+        from: "Apr 2020",
+        to: "March 2021",
+        description: "Customer support web app and research web for map data visualisations",
+        logo: "/logotier.jpeg",
+        url: "https://www.tier.app/en/",
+        tags:  ["Vue.js", "React", "TypeScript", "Python"]
     },
     {
         role: "From Intern to Software Engineer",
